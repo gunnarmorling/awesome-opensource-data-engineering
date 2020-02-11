@@ -17,16 +17,29 @@ toc::[]
 
 * https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
 
-== Data Governance
+== Data Governance and Registries
 
 * https://github.com/lyft/amundsen[Amundsen] - metadata catalogue.
+* https://atlas.apache.org[Apache Atlas] - Data governance and metadata framework for Hadoop.
 
 == Data Virtualization
 
+* http://teiid.io/[Teiid] - A relational abstraction of different information sources.
+
+== Formats
+
+* https://avro.apache.org/[Apache Avro] - A data serialization system.
+* https://developers.google.com/protocol-buffers[Protocol Buffers] - Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
+
+== Integration
+
+* https://camel.apache.org/[Apache Camel] - Easily integrate various systems consuming or producing data.
+
 == Messaging Infrastructure
 
+* https://activemq.apache.org/[Apache ActiveMQ] - Flexible & Powerful Multi-Protocol Messaging.
 * https://kafka.apache.org/[Apache Kafka] - A distributed commit log.
-* Apache Pulsar
+* https://pulsar.apache.org/[Apache Pulsar] - A distributed pub-sub messaging system.
 * https://nats.io/[NATS] - A simple, secure and high performance messaging system.
 * https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
 
@@ -34,11 +47,18 @@ toc::[]
 
 * https://beam.apache.org/[Apache Beam] - Implement batch and streaming data processing jobs that run on any execution engine.
 * https://flink.apache.org/[Apache Flink] - stateful computations over data streams.
+* https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka clusters.
 
 == Slide Decks and Recordings
 
-tbd.
+tbd. (only overview contents, no specific tools)
 
 == Blog Posts and Articles
 
-tbd.
+tbd. (only overview contents, no specific tools)
+
+== Tbd.
+
+_Not quite sure yet where to put these_
+
+https://github.com/Alluxio/alluxio

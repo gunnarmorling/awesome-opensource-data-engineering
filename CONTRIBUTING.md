@@ -2,7 +2,7 @@
 
 Contributions to this awesome list are very welcomed!
 Entries to be added *must* be open-source
-(using one of the [OSI-approved licenses](https://opensource.org/licenses)) projects related to data engineering and *should* be actively maintained as well as see some adoption.
+(using one of the [OSI-approved licenses](https://opensource.org/licenses)) projects related to data engineering and *should* be actively maintained (last commit/release within the last six months) as well as see some adoption.
 
 ## Style
 
