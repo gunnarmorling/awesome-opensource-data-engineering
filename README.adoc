@@ -1,0 +1,44 @@
+= Awesome Open-Source Data Engineering
+:toc:
+:toc-placement!:
+
+This https://github.com/topics/awesome-list[Awesome List] aims at providing an overview of open-source projects related to data engineering.
+
+toc::[]
+
+== Analytics
+
+== Change Data Capture
+
+* https://debezium.io/[Debezium] - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
+* https://github.com/zendesk/maxwell[Maxwell] - Maxwell's daemon, a MySQL-to-JSON Kafka producer  
+
+== Datastores
+
+* https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
+
+== Data Governance
+
+* https://github.com/lyft/amundsen[Amundsen] - metadata catalogue.
+
+== Data Virtualization
+
+== Messaging Infrastructure
+
+* https://kafka.apache.org/[Apache Kafka] - A distributed commit log.
+* Apache Pulsar
+* https://nats.io/[NATS] - A simple, secure and high performance messaging system.
+* https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
+
+== Stream Processing
+
+* https://beam.apache.org/[Apache Beam] - Implement batch and streaming data processing jobs that run on any execution engine.
+* https://flink.apache.org/[Apache Flink] - stateful computations over data streams.
+
+== Slide Decks and Recordings
+
+tbd.
+
+== Blog Posts and Articles
+
+tbd.
