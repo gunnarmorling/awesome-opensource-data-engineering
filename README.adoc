@@ -49,6 +49,7 @@ toc::[]
 * https://nakadi.io/[Nakadi] - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
 * https://nats.io/[NATS] - A simple, secure and high performance messaging system.
 * https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
+* http://github.com/bsideup/liiklus[Liiklus] - An event gateway that provides reactive gRPC/RSocket access to Kafka-like systems.
 
 == Stream Processing
 
