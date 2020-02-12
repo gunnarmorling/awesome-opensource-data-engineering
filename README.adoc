@@ -19,6 +19,7 @@ toc::[]
 
 == Datastores
 
+* https://calcite.apache.org/[Apache Calcite] - SQL parser, building blocks for datastores.
 * https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
 
@@ -45,15 +46,17 @@ toc::[]
 * https://activemq.apache.org/[Apache ActiveMQ] - Flexible & Powerful Multi-Protocol Messaging.
 * https://kafka.apache.org/[Apache Kafka] - A distributed commit log.
 * https://pulsar.apache.org/[Apache Pulsar] - A distributed pub-sub messaging system.
-* https://nakadi.io/[A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
+* https://nakadi.io/[Nakadi] - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
 * https://nats.io/[NATS] - A simple, secure and high performance messaging system.
 * https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
 
 == Stream Processing
 
 * https://beam.apache.org/[Apache Beam] - Implement batch and streaming data processing jobs that run on any execution engine.
-* https://flink.apache.org/[Apache Flink] - stateful computations over data streams.
+* https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
 * https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka clusters.
+* http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
+* http://storm.apache.org/[Apache Storm] - A distributed realtime computation system.
 
 == Testing
 
@@ -80,3 +83,7 @@ tbd.
 _Not quite sure yet where to put these_
 
 https://github.com/Alluxio/alluxio
+
+== License
+
+The contents of this repository is licensed under the "Creative Commons Attribution-ShareAlike 4.0 International License".
