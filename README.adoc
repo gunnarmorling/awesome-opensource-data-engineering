@@ -2,11 +2,15 @@
 :toc:
 :toc-placement!:
 
-This https://github.com/topics/awesome-list[Awesome List] aims at providing an overview of open-source projects related to data engineering.
+This https://github.com/topics/awesome-list[Awesome List] aims at providing an overview of https://opensource.org/licenses[open-source] projects related to data engineering.
+This is a community effort: please https://github.com/gunnarmorling/awesome-opensource-data-engineering/blob/master/CONTRIBUTING.md[contribute] and send your pull requests for growing this list!
+For a list including non-OSS tools, see this amazing https://github.com/igorbarinov/awesome-data-engineering[Awesome List].
 
 toc::[]
 
 == Analytics
+
+* https://spark.apache.org/[Apache Spark] - A unified analytics engine for large-scale data processing.
 
 == Change Data Capture
 
@@ -16,6 +20,7 @@ toc::[]
 == Datastores
 
 * https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
+* https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
 
 == Data Governance and Registries
 
@@ -40,6 +45,7 @@ toc::[]
 * https://activemq.apache.org/[Apache ActiveMQ] - Flexible & Powerful Multi-Protocol Messaging.
 * https://kafka.apache.org/[Apache Kafka] - A distributed commit log.
 * https://pulsar.apache.org/[Apache Pulsar] - A distributed pub-sub messaging system.
+* https://nakadi.io/[A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
 * https://nats.io/[NATS] - A simple, secure and high performance messaging system.
 * https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
 
@@ -49,13 +55,25 @@ toc::[]
 * https://flink.apache.org/[Apache Flink] - stateful computations over data streams.
 * https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka clusters.
 
-== Slide Decks and Recordings
+== Testing
 
-tbd. (only overview contents, no specific tools)
+tbd.
 
-== Blog Posts and Articles
+== Worflow Management
 
-tbd. (only overview contents, no specific tools)
+* https://airflow.apache.org/[Apache Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
+
+== Related Resources
+
+_only overview contents, no specific tools_
+
+=== Slide Decks, Recordings and Podcasts
+
+* https://www.dataengineeringpodcast.com/[Data Engineering Podcast]
+
+=== Blog Posts and Articles
+
+tbd.
 
 == Tbd.
 
