@@ -77,7 +77,9 @@ tbd.
 
 == Worflow Management
 
+* https://github.com/meirwah/awesome-workflow-engines[Awesome Workflow Engines] - A curated list of awesome open source workflow engines.
 * https://airflow.apache.org/[Apache Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
+
 
 == Related Resources
 
