@@ -41,6 +41,7 @@ toc::[]
 
 * https://avro.apache.org/[Apache Avro] - A data serialization system.
 * https://parquet.apache.org/[Apache Parquet] - A columnar storage format.
+* https://orc.apache.org/ [Apache ORC] - Another columnar storage format.
 * https://thrift.apache.org/[Apache Thrift] - Data type and service interface definitions and code generator.
 * https://capnproto.org/[Cap’n Proto] - A data interchange format and capability-based RPC system.
 * https://google.github.io/flatbuffers/[FlatBuffers] - An efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust.
