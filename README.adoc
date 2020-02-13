@@ -52,7 +52,7 @@ toc::[]
 == Messaging Infrastructure
 
 * https://activemq.apache.org/[Apache ActiveMQ] - Flexible & Powerful Multi-Protocol Messaging.
-* https://kafka.apache.org/[Apache Kafka] - A distributed commit log with pub-sub capabilities.
+* https://kafka.apache.org/[Apache Kafka] - A distributed commit log with messaging capabilities.
 * https://pulsar.apache.org/[Apache Pulsar] - A distributed pub-sub messaging system.
 * http://github.com/bsideup/liiklus[Liiklus] - An event gateway that provides reactive gRPC/RSocket access to Kafka-like systems.
 * https://nakadi.io/[Nakadi] - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
@@ -71,10 +71,6 @@ toc::[]
 * https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka.
 * http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
 * http://storm.apache.org/[Apache Storm] - A distributed realtime computation system.
-
-== Distributed Streaming Platform
-
-* https://kafka.apache.org/[Apache Kafka] - Building real-time event streaming apps using a combination of messaging, durable storage via the commit log, and stream processing capabilities.
 
 == Testing
 
