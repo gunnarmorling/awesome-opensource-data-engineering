@@ -90,6 +90,7 @@ _only overview contents, no specific tools_
 * https://www.dataengineeringpodcast.com/[Data Engineering Podcast]
 
 === Blog Posts and Articles
+* https://dataengweekly.substack.com/[Data Eng Weekly]
 
 tbd.
 
