@@ -92,8 +92,6 @@ _only overview contents, no specific tools_
 === Blog Posts and Articles
 * https://dataengweekly.substack.com/[Data Eng Weekly]
 
-tbd.
-
 == Tbd.
 
 _Not quite sure yet where to put these_
