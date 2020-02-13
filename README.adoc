@@ -15,7 +15,7 @@ toc::[]
 == Change Data Capture
 
 * https://debezium.io/[Debezium] - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
-* https://github.com/zendesk/maxwell[Maxwell] - Maxwell's daemon, a MySQL-to-JSON Kafka producer  
+* https://github.com/zendesk/maxwell[Maxwell] - Maxwell's daemon, a MySQL-to-JSON Kafka producer
 
 == Datastores
 
@@ -79,6 +79,7 @@ tbd.
 
 * https://github.com/meirwah/awesome-workflow-engines[Awesome Workflow Engines] - A curated list of awesome open source workflow engines.
 * https://airflow.apache.org/[Apache Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
+* https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
 
 == Related Resources
 
