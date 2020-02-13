@@ -46,6 +46,7 @@ toc::[]
 * https://capnproto.org/[Cap’n Proto] - A data interchange format and capability-based RPC system.
 * https://google.github.io/flatbuffers/[FlatBuffers] - An efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust.
 * https://developers.google.com/protocol-buffers[Protocol Buffers] - Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
+* https://msgpack.org/index.html[MessagePack] - n efficient binary serialization format. It lets you exchange data among multiple languages like JSON. 
 
 == Integration
 
