@@ -35,6 +35,10 @@ toc::[]
 == Formats
 
 * https://avro.apache.org/[Apache Avro] - A data serialization system.
+* https://parquet.apache.org/[Apache Parquet] - A columnar storage format.
+* https://thrift.apache.org/[Apache Thrift] - Data type and service interface definitions and code generator.
+* https://capnproto.org/[Cap’n Proto] - A data interchange format and capability-based RPC system.
+* https://google.github.io/flatbuffers/[FlatBuffers] - An efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust.
 * https://developers.google.com/protocol-buffers[Protocol Buffers] - Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
 
 == Integration
@@ -49,7 +53,12 @@ toc::[]
 * http://github.com/bsideup/liiklus[Liiklus] - An event gateway that provides reactive gRPC/RSocket access to Kafka-like systems.
 * https://nakadi.io/[Nakadi] - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
 * https://nats.io/[NATS] - A simple, secure and high performance messaging system.
+* https://www.rabbitmq.com/[RabbitMQ] - A message broker.
 * https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
+
+== Specifications and Standards
+
+* https://cloudevents.io/[CloudEvents] - A specification for describing event data in a common way.
 
 == Stream Processing
 
