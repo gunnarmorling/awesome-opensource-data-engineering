@@ -50,11 +50,12 @@ toc::[]
 == Integration
 
 * https://camel.apache.org/[Apache Camel] - Easily integrate various systems consuming or producing data.
+* https://kafka.apache.org/documentation/#connect[Kafka Connect] - Reusable framework to handle data int-and-out of Apache Kafka.
 
 == Messaging Infrastructure
 
 * https://activemq.apache.org/[Apache ActiveMQ] - Flexible & Powerful Multi-Protocol Messaging.
-* https://kafka.apache.org/[Apache Kafka] - A distributed commit log.
+* https://kafka.apache.org/[Apache Kafka] - A distributed commit log with messaging capabilities.
 * https://pulsar.apache.org/[Apache Pulsar] - A distributed pub-sub messaging system.
 * http://github.com/bsideup/liiklus[Liiklus] - An event gateway that provides reactive gRPC/RSocket access to Kafka-like systems.
 * https://nakadi.io/[Nakadi] - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
@@ -70,7 +71,7 @@ toc::[]
 
 * https://beam.apache.org/[Apache Beam] - Implement batch and streaming data processing jobs that run on any execution engine.
 * https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
-* https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka clusters.
+* https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka.
 * http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
 * http://storm.apache.org/[Apache Storm] - A distributed realtime computation system.
 
