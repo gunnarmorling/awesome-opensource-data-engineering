@@ -21,10 +21,10 @@ toc::[]
 
 * https://calcite.apache.org/[Apache Calcite] - SQL parser, building blocks for datastores.
 * http://cassandra.apache.org/[Apache Cassandra] - Open Source distributed wide column store, NoSQL database.
-* https://clickhouse.tech/[ClickHouse] - Open Source distributed column-oriented DBMS.
 * https://druid.apache.org/[Apache Druid] - A high performance real-time analytics database.
 * https://hbase.apache.org/[Apache HBase] - Open Source non-relational distributed database. 
 * https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
+* https://clickhouse.tech/[ClickHouse] - Open Source distributed column-oriented DBMS.
 * https://www.influxdata.com/[InfluxDB] - Purpose-Built Open Source Time Series Database.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
 
@@ -41,7 +41,7 @@ toc::[]
 
 * https://avro.apache.org/[Apache Avro] - A data serialization system.
 * https://parquet.apache.org/[Apache Parquet] - A columnar storage format.
-* https://orc.apache.org/ [Apache ORC] - Another columnar storage format.
+* https://orc.apache.org/[Apache ORC] - Another columnar storage format.
 * https://thrift.apache.org/[Apache Thrift] - Data type and service interface definitions and code generator.
 * https://capnproto.org/[Cap’n Proto] - A data interchange format and capability-based RPC system.
 * https://google.github.io/flatbuffers/[FlatBuffers] - An efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust.
