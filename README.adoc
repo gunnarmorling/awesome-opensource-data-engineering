@@ -20,8 +20,8 @@ toc::[]
 == Datastores
 
 * https://calcite.apache.org/[Apache Calcite] - SQL parser, building blocks for datastores.
+* https://druid.apache.org/[Apache Druid] - A high performance real-time analytics database.
 * https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
-*https://druid.apache.org/[Apache Druid] - A high performance real-time analytics database.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
 
 == Data Governance and Registries
