@@ -20,14 +20,13 @@ toc::[]
 == Datastores
 
 * https://calcite.apache.org/[Apache Calcite] - SQL parser, building blocks for datastores.
+* http://cassandra.apache.org/[Apache Cassandra] - Open Source distributed wide column store, NoSQL database.
 * https://clickhouse.tech/[ClickHouse] - Open Source distributed column-oriented DBMS.
 * https://druid.apache.org/[Apache Druid] - A high performance real-time analytics database.
+* https://hbase.apache.org/[Apache HBase] - Open Source non-relational distributed database. 
 * https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
 * https://www.influxdata.com/[InfluxDB] - Purpose-Built Open Source Time Series Database.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
-* http://cassandra.apache.org/[Apache Cassandra] - Open Source distributed wide column store, NoSQL database.
-* https://hbase.apache.org/[Apache HBase] - Open Source non-relational distributed database. 
-
 
 == Data Governance and Registries
 
