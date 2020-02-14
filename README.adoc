@@ -52,6 +52,7 @@ toc::[]
 
 * https://camel.apache.org/[Apache Camel] - Easily integrate various systems consuming or producing data.
 * https://kafka.apache.org/documentation/#connect[Kafka Connect] - Reusable framework to handle data int-and-out of Apache Kafka.
+* https://www.elastic.co/logstash[Logstash] - Open Source server-side data processing pipeline.
 
 == Messaging Infrastructure
 
