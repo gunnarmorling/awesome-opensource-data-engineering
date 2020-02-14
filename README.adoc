@@ -75,6 +75,7 @@ toc::[]
 * https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka.
 * http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
 * http://storm.apache.org/[Apache Storm] - A distributed realtime computation system.
+* https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html[Apache Spark Structured Streaming] -  A scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
 
 == Testing
 
