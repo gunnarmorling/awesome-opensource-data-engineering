@@ -12,6 +12,12 @@ toc::[]
 
 * https://spark.apache.org/[Apache Spark] - A unified analytics engine for large-scale data processing.
 
+== Business Intelligence
+
+* https://superset.incubator.apache.org/[Apache Superset] - A modern, enterprise-ready business intelligence web application.
+* https://www.metabase.com/[Metabase] - An easy way for everyone in your company to ask questions and learn from data.
+* https://redash.io/[Redash] - All the tools to unlock your data.
+
 == Change Data Capture
 
 * https://debezium.io/[Debezium] - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
