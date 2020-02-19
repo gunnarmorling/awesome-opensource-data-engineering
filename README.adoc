@@ -108,6 +108,10 @@ _only overview contents, no specific tools_
 === Blog Posts and Articles
 * https://dataengweekly.substack.com/[Data Eng Weekly]
 
+=== Collections
+* https://nosql-database.org/[NOSQL Database Management Systems] - List of NoSQL database management systems.
+* https://db-engines.com/en/[DB-Engines] - Knowledge base of relational and NoSQL database management systems.
+
 == Tbd.
 
 _Not quite sure yet where to put these_
