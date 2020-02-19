@@ -42,6 +42,8 @@ toc::[]
 == Data Virtualization
 
 * http://teiid.io/[Teiid] - A relational abstraction of different information sources.
+* https://prestodb.io/[Presto] - Distributed SQL Query Engine for Big Data.
+* https://drill.apache.org/[Apache Drill] - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
 
 == Formats
 
