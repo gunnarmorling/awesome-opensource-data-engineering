@@ -104,6 +104,7 @@ _only overview contents, no specific tools_
 === Slide Decks, Recordings and Podcasts
 
 * https://www.dataengineeringpodcast.com/[Data Engineering Podcast]
+* https://softwareengineeringdaily.com/[Sofware Engineering Daily]
 
 === Blog Posts and Articles
 * https://dataengweekly.substack.com/[Data Eng Weekly]
