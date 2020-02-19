@@ -33,6 +33,7 @@ toc::[]
 * https://clickhouse.tech/[ClickHouse] - Open Source distributed column-oriented DBMS.
 * https://www.influxdata.com/[InfluxDB] - Purpose-Built Open Source Time Series Database.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
+* https://min.io/[MinIO] - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
 
 == Data Governance and Registries
 
