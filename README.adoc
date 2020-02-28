@@ -73,6 +73,7 @@ toc::[]
 * https://nats.io/[NATS] - A simple, secure and high performance messaging system.
 * https://www.rabbitmq.com/[RabbitMQ] - A message broker.
 * https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
+* https://zeromq.org/[ZeroMQ] - An open-source universal, high-performance messaging library.
 
 == Specifications and Standards
 
