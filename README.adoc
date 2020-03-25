@@ -89,6 +89,7 @@ toc::[]
 * http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
 * https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html[Apache Spark Structured Streaming] -  A scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
 * http://storm.apache.org/[Apache Storm] - A distributed realtime computation system.
+* https://heron.incubator.apache.org/[Apache Heron] - The "direct successor of Apache Storm", built to be backwards compatible with Storm's topology API but with a wide array of architectural improvements.
 
 == Testing
 
