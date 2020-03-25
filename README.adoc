@@ -10,7 +10,9 @@ toc::[]
 
 == Analytics
 
-* https://spark.apache.org/[Apache Spark] - A unified analytics engine for large-scale data processing.
+* https://spark.apache.org/[Apache Spark] - A unified analytics engine for large-scale data processing. Includes APIs in Scala, Java, Python (known as PySpark), and R (SparkR). 
+* https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
+* https://beam.apache.org/[Apache Beam] - An open-source implementation of Google DataFlow. Provides capabilites of batch and streaming data processing jobs that run on any execution engine, including Spark, Flink, or its own DirectRunner. Supports multiple APIs in Java, Python, and Go. 
 
 == Business Intelligence
 
@@ -91,8 +93,6 @@ toc::[]
 
 == Stream Processing
 
-* https://beam.apache.org/[Apache Beam] - Implement batch and streaming data processing jobs that run on any execution engine.
-* https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
 * https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka.
 * http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
 * https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html[Apache Spark Structured Streaming] -  A scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
