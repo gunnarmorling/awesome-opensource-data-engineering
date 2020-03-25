@@ -17,6 +17,7 @@ toc::[]
 * https://superset.incubator.apache.org/[Apache Superset] - A modern, enterprise-ready business intelligence web application.
 * https://www.metabase.com/[Metabase] - An easy way for everyone in your company to ask questions and learn from data.
 * https://redash.io/[Redash] - All the tools to unlock your data.
+* https://gethue.com/[HUE] - The Hadoop User Interface. Similar to Superset, but interfaces between RDBMS, Hive, Impala, HBase, Spark, HDFS & S3, Oozie, Pig, YARN Job Explorer, and more. Offers an extensible Django environment for custom app integration. 
 
 == Change Data Capture
 
