@@ -45,9 +45,11 @@ toc::[]
 
 == Data Virtualization
 
+* https://github.com/dremio/dremio-oss[Dremio] - A data lake engine. Provides an Apache Arrow-based query and acceleration engine together with the ability to create an IT-governed self-service layer for data scientists and analysts.
 * http://teiid.io/[Teiid] - A relational abstraction of different information sources.
 * https://prestodb.io/[Presto] - Distributed SQL Query Engine for Big Data.
 * https://drill.apache.org/[Apache Drill] - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
+
 
 == Formats
 
