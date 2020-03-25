@@ -17,7 +17,6 @@ toc::[]
 * https://superset.incubator.apache.org/[Apache Superset] - A modern, enterprise-ready business intelligence web application.
 * https://www.metabase.com/[Metabase] - An easy way for everyone in your company to ask questions and learn from data.
 * https://redash.io/[Redash] - All the tools to unlock your data.
-* https://gethue.com/[HUE] - The Hadoop User Interface. Similar to Superset, but interfaces between RDBMS, Hive, Impala, HBase, Spark, HDFS & S3, Oozie, Pig, YARN Job Explorer, and more. Offers an extensible Django environment for custom app integration. 
 
 == Change Data Capture
 
@@ -90,7 +89,6 @@ toc::[]
 * http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
 * https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html[Apache Spark Structured Streaming] -  A scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
 * http://storm.apache.org/[Apache Storm] - A distributed realtime computation system.
-* https://heron.incubator.apache.org/[Apache Heron] - The "direct successor of Apache Storm", built to be backwards compatible with Storm's topology API but with a wide array of architectural improvements.
 
 == Testing
 
@@ -102,6 +100,7 @@ toc::[]
 * https://airflow.apache.org/[Apache Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
 * https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
 * https://nifi.apache.org/[Apache NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
+* https://www.knime.com/[KNIME] - KNIME Analytics Platform offers a WYSIWYG Editor for Spark-based workflows, with over 2000+ integrations. Offers visualization and flow analytics in-place. 
 
 == Related Resources
 
