@@ -11,20 +11,20 @@ toc::[]
 == Analytics
 
 * https://spark.apache.org/[Apache Spark] - A unified analytics engine for large-scale data processing. Includes APIs in Scala, Java, Python (known as PySpark), and R (SparkR). 
-* https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
 * https://beam.apache.org/[Apache Beam] - An open-source implementation of Google DataFlow. Provides capabilites of batch and streaming data processing jobs that run on any execution engine, including Spark, Flink, or its own DirectRunner. Supports multiple APIs in Java, Python, and Go. 
+* https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
 
 == Business Intelligence
 
 * https://superset.incubator.apache.org/[Apache Superset] - A modern, enterprise-ready business intelligence web application.
+* https://gethue.com/[HUE] - The Hadoop User Interface. Similar to Superset, but interfaces between RDBMS, Hive, Impala, HBase, Spark, HDFS & S3, Oozie, Pig, YARN Job Explorer, and more. Offers an extensible Django environment for custom app integration. 
 * https://www.metabase.com/[Metabase] - An easy way for everyone in your company to ask questions and learn from data.
 * https://redash.io/[Redash] - All the tools to unlock your data.
-* https://gethue.com/[HUE] - The Hadoop User Interface. Similar to Superset, but interfaces between RDBMS, Hive, Impala, HBase, Spark, HDFS & S3, Oozie, Pig, YARN Job Explorer, and more. Offers an extensible Django environment for custom app integration. 
 
 == Change Data Capture
 
 * https://debezium.io/[Debezium] - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
-* https://github.com/zendesk/maxwell[Maxwell] - Maxwell's daemon, a MySQL-to-JSON Kafka producer
+* https://github.com/zendesk/maxwell[Maxwell] - Maxwell's daemon, a MySQL-to-JSON Kafka producer.
 
 == Datastores
 
@@ -35,8 +35,8 @@ toc::[]
 * https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
 * https://clickhouse.tech/[ClickHouse] - Open Source distributed column-oriented DBMS.
 * https://www.influxdata.com/[InfluxDB] - Purpose-Built Open Source Time Series Database.
-* https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
 * https://min.io/[MinIO] - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
+* https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
 
 == Data Governance and Registries
 
@@ -47,10 +47,10 @@ toc::[]
 
 == Data Virtualization
 
+* https://drill.apache.org/[Apache Drill] - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
 * https://github.com/dremio/dremio-oss[Dremio] - A data lake engine. Provides an Apache Arrow-based query and acceleration engine together with the ability to create an IT-governed self-service layer for data scientists and analysts.
 * http://teiid.io/[Teiid] - A relational abstraction of different information sources.
 * https://prestodb.io/[Presto] - Distributed SQL Query Engine for Big Data.
-* https://drill.apache.org/[Apache Drill] - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
 
 == Data Orchestration
 * https://github.com/Alluxio/alluxio[Alluxio] - Scalable, multi-tiered distributed caching for HDFS, S3, Ceph, NFS, and related filestores. Provides integrations for SQL queries into a Catalog from Spark, Hive, and Presto. 
@@ -64,9 +64,8 @@ toc::[]
 * https://arrow.apache.org/[Apache Arrow] - A cross-language development platform for in-memory data. It specifies a standardized, language-independent, columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy IPC and streaming messaging. 
 * https://capnproto.org/[Cap’n Proto] - A data interchange format and capability-based RPC system.
 * https://google.github.io/flatbuffers/[FlatBuffers] - An efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust.
-* https://developers.google.com/protocol-buffers[Protocol Buffers] - Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
 * https://msgpack.org/index.html[MessagePack] - An efficient binary serialization format. It lets you exchange data among multiple languages like JSON. 
-
+* https://developers.google.com/protocol-buffers[Protocol Buffers] - Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
 
 == Integration
 
@@ -93,11 +92,11 @@ toc::[]
 
 == Stream Processing
 
+* https://heron.incubator.apache.org/[Apache Heron] - The "direct successor of Apache Storm", built to be backwards compatible with Storm's topology API but with a wide array of architectural improvements.
 * https://kafka.apache.org/documentation/streams/[Apache Kafka Streams] - A client library for building applications and microservices, where the input and output data are stored in Kafka.
 * http://samza.apache.org/[Apache Samza] - A distributed stream processing framework.
 * https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html[Apache Spark Structured Streaming] -  A scalable and fault-tolerant stream processing engine built on the Spark SQL engine.
 * http://storm.apache.org/[Apache Storm] - A distributed realtime computation system.
-* https://heron.incubator.apache.org/[Apache Heron] - The "direct successor of Apache Storm", built to be backwards compatible with Storm's topology API but with a wide array of architectural improvements.
 
 == Testing
 
@@ -107,9 +106,9 @@ toc::[]
 
 * https://github.com/meirwah/awesome-workflow-engines[Awesome Workflow Engines] - A curated list of awesome open source workflow engines.
 * https://airflow.apache.org/[Apache Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
-* https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
 * https://nifi.apache.org/[Apache NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
 * https://github.com/knime/[KNIME] - KNIME Analytics Platform offers a WYSIWYG Editor for Spark-based workflows, with over 2000+ integrations. Offers visualization and flow analytics in-place. KNIME Server is a commercially licensed component that adds additional features. 
+* https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
 
 == Related Resources
 
