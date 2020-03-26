@@ -45,6 +45,7 @@ toc::[]
 
 == Data Virtualization
 
+* https://github.com/dremio/dremio-oss[Dremio] - A data lake engine. Provides an Apache Arrow-based query and acceleration engine together with the ability to create an IT-governed self-service layer for data scientists and analysts.
 * http://teiid.io/[Teiid] - A relational abstraction of different information sources.
 * https://prestodb.io/[Presto] - Distributed SQL Query Engine for Big Data.
 * https://drill.apache.org/[Apache Drill] - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
@@ -58,16 +59,19 @@ toc::[]
 * https://parquet.apache.org/[Apache Parquet] - A columnar storage format.
 * https://orc.apache.org/[Apache ORC] - Another columnar storage format.
 * https://thrift.apache.org/[Apache Thrift] - Data type and service interface definitions and code generator.
+* https://arrow.apache.org/[Apache Arrow] - A cross-language development platform for in-memory data. It specifies a standardized, language-independent, columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy IPC and streaming messaging. 
 * https://capnproto.org/[Cap’n Proto] - A data interchange format and capability-based RPC system.
 * https://google.github.io/flatbuffers/[FlatBuffers] - An efficient cross platform serialization library for C++, C#, C, Go, Java, JavaScript, Lobster, Lua, TypeScript, PHP, Python, and Rust.
 * https://developers.google.com/protocol-buffers[Protocol Buffers] - Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data.
 * https://msgpack.org/index.html[MessagePack] - An efficient binary serialization format. It lets you exchange data among multiple languages like JSON. 
+
 
 == Integration
 
 * https://camel.apache.org/[Apache Camel] - Easily integrate various systems consuming or producing data.
 * https://kafka.apache.org/documentation/#connect[Kafka Connect] - Reusable framework to handle data int-and-out of Apache Kafka.
 * https://www.elastic.co/logstash[Logstash] - Open Source server-side data processing pipeline.
+* https://github.com/influxdata/telegraf[Telegraf] - a plugin-driven server agent writen in Go (deployed as a single binary with no external dependencies) for collecting and sending metrics and events from databases, systems, and IoT sensors. Offers hundreds of existing plugins. 
 
 == Messaging Infrastructure
 
