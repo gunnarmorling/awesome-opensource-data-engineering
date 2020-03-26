@@ -50,6 +50,8 @@ toc::[]
 * https://prestodb.io/[Presto] - Distributed SQL Query Engine for Big Data.
 * https://drill.apache.org/[Apache Drill] - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
 
+== Data Orchestration
+* https://github.com/Alluxio/alluxio[Alluxio] - Scalable, multi-tiered distributed caching for HDFS, S3, Ceph, NFS, and related filestores. Provides integrations for SQL queries into a Catalog from Spark, Hive, and Presto. 
 
 == Formats
 
@@ -123,12 +125,6 @@ _only overview contents, no specific tools_
 === Collections
 * https://nosql-database.org/[NOSQL Database Management Systems] - List of NoSQL database management systems.
 * https://db-engines.com/en/[DB-Engines] - Knowledge base of relational and NoSQL database management systems.
-
-== Tbd.
-
-_Not quite sure yet where to put these_
-
-https://github.com/Alluxio/alluxio
 
 == License
 
