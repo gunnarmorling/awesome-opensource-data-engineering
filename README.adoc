@@ -125,6 +125,7 @@ _only overview contents, no specific tools_
 === Collections
 * https://nosql-database.org/[NOSQL Database Management Systems] - List of NoSQL database management systems.
 * https://db-engines.com/en/[DB-Engines] - Knowledge base of relational and NoSQL database management systems.
+* https://www.goodreads.com/list/show/146550.Data_Engineering_Group[Books] and https://www.goodreads.com/group/show/1073364-data-engineering[Book club] - Goodreads list and group about Data Engineering books
 
 == License
 
