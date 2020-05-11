@@ -77,6 +77,7 @@ toc::[]
 == Messaging Infrastructure
 
 * https://activemq.apache.org/[Apache ActiveMQ] - Flexible & Powerful Multi-Protocol Messaging.
+* https://aws.amazon.com/sqs/[Amazon SQS] - A fully managed message queuing service.
 * https://kafka.apache.org/[Apache Kafka] - A distributed commit log with messaging capabilities.
 * https://pulsar.apache.org/[Apache Pulsar] - A distributed pub-sub messaging system.
 * http://github.com/bsideup/liiklus[Liiklus] - An event gateway that provides reactive gRPC/RSocket access to Kafka-like systems.
