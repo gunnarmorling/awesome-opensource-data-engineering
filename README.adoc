@@ -109,6 +109,7 @@ toc::[]
 * https://nifi.apache.org/[Apache NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
 * https://github.com/knime/[KNIME] - KNIME Analytics Platform offers a WYSIWYG Editor for Spark-based workflows, with over 2000+ integrations. Offers visualization and flow analytics in-place. KNIME Server is a commercially licensed component that adds additional features. 
 * https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
+* https://github.com/dagster-io/dagster/[Dagster] - A data orchestrator for machine learning, analytics, and ETL.
 
 == Related Resources
 
