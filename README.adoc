@@ -103,7 +103,7 @@ toc::[]
 * https://greatexpectations.io/[Great expectations] - Helps data teams eliminate pipeline debt, through data testing.
 
 == Versioning 
-* https://github.com/treeverse/lakeFS [lakeFS] - Repeatable, atomic and versioned data lake on top of object storage.
+* https://github.com/treeverse/lakeFS/[lakeFS] - Repeatable, atomic and versioned data lake on top of object storage.
 
 == Workflow Management
 
