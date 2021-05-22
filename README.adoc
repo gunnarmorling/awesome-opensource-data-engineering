@@ -13,6 +13,7 @@ toc::[]
 * https://spark.apache.org/[Apache Spark] - A unified analytics engine for large-scale data processing. Includes APIs in Scala, Java, Python (known as PySpark), and R (SparkR). 
 * https://beam.apache.org/[Apache Beam] - An open-source implementation of Google DataFlow. Provides capabilites of batch and streaming data processing jobs that run on any execution engine, including Spark, Flink, or its own DirectRunner. Supports multiple APIs in Java, Python, and Go. 
 * https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
+* https://trino.io/[Trino (formerly known as PrestoSQL)] - Distributed SQL Query Engine for Big Data.
 
 == Business Intelligence
 
