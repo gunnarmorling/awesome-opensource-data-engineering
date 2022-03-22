@@ -77,6 +77,7 @@ toc::[]
 * https://kafka.apache.org/documentation/#connect[Kafka Connect] - Reusable framework to handle data int-and-out of Apache Kafka.
 * https://www.elastic.co/logstash[Logstash] - Open Source server-side data processing pipeline.
 * https://github.com/influxdata/telegraf[Telegraf] - a plugin-driven server agent writen in Go (deployed as a single binary with no external dependencies) for collecting and sending metrics and events from databases, systems, and IoT sensors. Offers hundreds of existing plugins. 
+* https://github.com/openvinotoolkit/datumaro[Datumaro] - A Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 
 == Messaging Infrastructure
 
@@ -117,6 +118,7 @@ toc::[]
 * https://github.com/knime/[KNIME] - KNIME Analytics Platform offers a WYSIWYG Editor for Spark-based workflows, with over 2000+ integrations. Offers visualization and flow analytics in-place. KNIME Server is a commercially licensed component that adds additional features. 
 * https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
 * https://github.com/dagster-io/dagster/[Dagster] - A data orchestrator for machine learning, analytics, and ETL.
+* https://github.com/openvinotoolkit/datumaro[Datumaro] - A Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 
 == Related Resources
 
