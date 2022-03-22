@@ -47,6 +47,7 @@ toc::[]
 * https://github.com/Netflix/metacat[Metacat] - Unified metadata exploration API service.
 * https://github.com/elementary-data/elementary-lineage[Elementary] - Data reliability solution, starting with plug-and-play data lineage and datasets operational status. 
 * https://github.com/monosidev/monosi[Monosi] - Data observability & monitoring platform. 
+* https://github.com/open-metadata/OpenMetadata[OpenMetadata] - Generalized metadata, search, and lineage tool.
 
 == Data Virtualization
 
