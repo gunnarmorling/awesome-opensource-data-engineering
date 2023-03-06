@@ -22,6 +22,12 @@ toc::[]
 * https://www.metabase.com/[Metabase] - An easy way for everyone in your company to ask questions and learn from data.
 * https://redash.io/[Redash] - All the tools to unlock your data.
 
+== Data Lakehouse
+
+* https://delta.io/[Delta Lake] - Open-source storage framework that enables building a lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+* https://hudi.apache.org/[Apache Hudi] - Transactional data lake platform that brings database and data warehouse capabilities to the data lake. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
+* https://iceberg.apache.org/[Apache Iceberg] - High-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, Hive and Impala to safely work with the same tables, at the same time.
+
 == Change Data Capture
 
 * https://debezium.io/[Debezium] - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
