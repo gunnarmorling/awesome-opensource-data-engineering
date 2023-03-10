@@ -121,6 +121,7 @@ toc::[]
 * https://airflow.apache.org/[Apache Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
 * https://nifi.apache.org/[Apache NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
 * https://github.com/knime/[KNIME] - KNIME Analytics Platform offers a WYSIWYG Editor for Spark-based workflows, with over 2000+ integrations. Offers visualization and flow analytics in-place. KNIME Server is a commercially licensed component that adds additional features. 
+* https://github.com/mage-ai/mage-ai/[Mage AI] - Build, run, and manage data pipelines for integrating and transforming data
 * https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
 * https://github.com/dagster-io/dagster/[Dagster] - A data orchestrator for machine learning, analytics, and ETL.
 * https://github.com/kestra-io/kestra[Kestra] - Open source data orchestration and scheduling platform with declarative syntax.
