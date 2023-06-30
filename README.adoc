@@ -95,6 +95,7 @@ toc::[]
 * https://www.rabbitmq.com/[RabbitMQ] - A message broker.
 * https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
 * https://zeromq.org/[ZeroMQ] - An open-source universal, high-performance messaging library.
+* https://github.com/aklivity/zilla[Zilla] - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT, and the native Kafka protocol.
 
 == Specifications and Standards
 
