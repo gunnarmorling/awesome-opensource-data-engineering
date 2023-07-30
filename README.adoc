@@ -133,6 +133,7 @@ _only overview contents, no specific tools_
 
 * https://www.dataengineeringpodcast.com/[Data Engineering Podcast]
 * https://softwareengineeringdaily.com/[Software Engineering Daily]
+* https://datastackshow.com/[Data Stack Show]
 
 === Blog Posts and Articles
 * https://dataengweekly.substack.com/[Data Eng Weekly]
