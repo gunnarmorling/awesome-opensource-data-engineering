@@ -83,6 +83,7 @@ toc::[]
 * https://kafka.apache.org/documentation/#connect[Kafka Connect] - Reusable framework to handle data int-and-out of Apache Kafka.
 * https://www.elastic.co/logstash[Logstash] - Open Source server-side data processing pipeline.
 * https://github.com/influxdata/telegraf[Telegraf] - a plugin-driven server agent writen in Go (deployed as a single binary with no external dependencies) for collecting and sending metrics and events from databases, systems, and IoT sensors. Offers hundreds of existing plugins. 
+* https://github.com/rudderlabs/rudder-server[RudderStack] - A headless Customer Data Platform to build data pipelines, Open-Source alternative to Segment
 
 == Messaging Infrastructure
 
