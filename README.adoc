@@ -27,6 +27,12 @@ toc::[]
 * https://delta.io/[Delta Lake] - Open-source storage framework that enables building a lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 * https://hudi.apache.org/[Apache Hudi] - Transactional data lake platform that brings database and data warehouse capabilities to the data lake. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
 * https://iceberg.apache.org/[Apache Iceberg] - High-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, Hive and Impala to safely work with the same tables, at the same time.
+* https://www.blossomsky.io/[Blossom Sky] - Blossom Sky is a virtual data lakehouse platform that processes data in-place, improving performance, security, compliance, and reducing data management complexity. 
+
+Source: Conversation with Bing, 8/14/2023
+(1) Blossom Sky: The Virtual Data Lakehouse Platform. https://www.blossomsky.io/.
+(2) 518,677 Cherry Blossom Sky Images, Stock Photos & Vectors - Shutterstock. https://www.shutterstock.com/search/cherry-blossom-sky.
+(3) Blossom and Sky Jewellery. https://www.blossomandsky.com/.
 
 == Change Data Capture
 
