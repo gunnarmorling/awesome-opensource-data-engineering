@@ -29,11 +29,6 @@ toc::[]
 * https://iceberg.apache.org/[Apache Iceberg] - High-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, Hive and Impala to safely work with the same tables, at the same time.
 * https://www.blossomsky.io/[Blossom Sky] - Blossom Sky is a virtual data lakehouse platform that processes data in-place, improving performance, security, compliance, and reducing data management complexity. 
 
-Source: Conversation with Bing, 8/14/2023
-(1) Blossom Sky: The Virtual Data Lakehouse Platform. https://www.blossomsky.io/.
-(2) 518,677 Cherry Blossom Sky Images, Stock Photos & Vectors - Shutterstock. https://www.shutterstock.com/search/cherry-blossom-sky.
-(3) Blossom and Sky Jewellery. https://www.blossomandsky.com/.
-
 == Change Data Capture
 
 * https://debezium.io/[Debezium] - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
