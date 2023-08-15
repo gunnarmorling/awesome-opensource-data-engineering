@@ -65,7 +65,7 @@ toc::[]
 
 == Data Orchestration
 * https://github.com/Alluxio/alluxio[Alluxio] - Scalable, multi-tiered distributed caching for HDFS, S3, Ceph, NFS, and related filestores. Provides integrations for SQL queries into a Catalog from Spark, Hive, and Presto. 
-* https://github.com/mara/mara-pipelines[mara] - A lightweight data transformation framework with a focus on transparency and complexity reduction, is designed to create data integration pipelines as code, using declarative Python code. It uses PostgreSQL as a data processing engine and has an extensive web UI for inspecting, running, and debugging pipelines.
+* https://github.com/mara/mara-pipelines[Mara-Pipelines] - A lightweight data transformation framework with a focus on transparency and complexity reduction, is designed to create data integration pipelines as code, using declarative Python code. It uses PostgreSQL as a data processing engine and has an extensive web UI for inspecting, running, and debugging pipelines.
 
 == Formats
 
