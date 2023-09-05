@@ -124,6 +124,7 @@ toc::[]
 * https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
 * https://github.com/dagster-io/dagster/[Dagster] - A data orchestrator for machine learning, analytics, and ETL.
 * https://github.com/kestra-io/kestra[Kestra] - Open source data orchestration and scheduling platform with declarative syntax.
+* https://www.mage.ai/[Mage.ai] - Open-source data pipeline tool for orchestrating and integrating data.
 
 == Related Resources
 
