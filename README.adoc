@@ -143,6 +143,7 @@ _only overview contents, no specific tools_
 * https://nosql-database.org/[NOSQL Database Management Systems] - List of NoSQL database management systems.
 * https://db-engines.com/en/[DB-Engines] - Knowledge base of relational and NoSQL database management systems.
 * https://www.goodreads.com/list/show/146550.Data_Engineering_Group[Books] and https://www.goodreads.com/group/show/1073364-data-engineering[Book club] - Goodreads list and group about Data Engineering books
+* https://www.kdnuggets.com/25-free-books-to-master-sql-python-data-science-machine-learning-and-natural-language-processing[25 Free Data Books] - Collection of 25 free e-books related to SQL, Python, Data Science, Machine Learning, and Natural Language Processing.
 
 == License
 
