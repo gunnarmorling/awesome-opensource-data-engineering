@@ -44,6 +44,7 @@ toc::[]
 * https://www.influxdata.com/[InfluxDB] - Purpose-Built Open Source Time Series Database.
 * https://min.io/[MinIO] - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
+* https://starrocks.io[StarRocks] - StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.
 
 == Data Governance and Registries
 
