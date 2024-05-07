@@ -111,10 +111,12 @@ toc::[]
 
 == Testing
 * https://greatexpectations.io/[Great expectations] - Helps data teams eliminate pipeline debt, through data testing.
+* https://github.com/DataKitchen/data-observability-installer/[DataKitchen Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.
 
 == Monitoring and Logging
 * https://prometheus.io/[prometheus] - An open-source systems monitoring and alerting toolkit.
 * https://grafana.com/[grafana] - An open-source analytics and monitoring platform.
+* https://github.com/DataKitchen/data-observability-installer/[DataKitchen Data Observability] - A full featured monitoring and alerting software that watches across and down your data estate
 
 == Versioning 
 * https://github.com/treeverse/lakeFS/[lakeFS] - Repeatable, atomic and versioned data lake on top of object storage.
