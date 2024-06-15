@@ -27,6 +27,7 @@ toc::[]
 * https://delta.io/[Delta Lake] - Open-source storage framework that enables building a lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 * https://hudi.apache.org/[Apache Hudi] - Transactional data lake platform that brings database and data warehouse capabilities to the data lake. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
 * https://iceberg.apache.org/[Apache Iceberg] - High-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, Hive and Impala to safely work with the same tables, at the same time.
+* https://www.blossomsky.io/[Blossom Sky] - Blossom Sky is a virtual data lakehouse platform that processes data in-place, improving performance, security, compliance, and reducing data management complexity. 
 
 == Change Data Capture
 
@@ -64,6 +65,7 @@ toc::[]
 
 == Data Orchestration
 * https://github.com/Alluxio/alluxio[Alluxio] - Scalable, multi-tiered distributed caching for HDFS, S3, Ceph, NFS, and related filestores. Provides integrations for SQL queries into a Catalog from Spark, Hive, and Presto. 
+* https://github.com/mara/mara-pipelines[Mara pipelines] - A lightweight data transformation framework with a focus on transparency and complexity reduction, is designed to create data integration pipelines as code, using declarative Python code. It uses PostgreSQL as a data processing engine and has an extensive web UI for inspecting, running, and debugging pipelines.
 
 * https://www.getdbt.com/[dbt] - Empowering data analysts and engineers to apply methodologies akin to those used by software engineers for constructing applications, dbt ensures data transformation processes align with established practices.
 
