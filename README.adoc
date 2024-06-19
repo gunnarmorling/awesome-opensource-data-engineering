@@ -144,6 +144,7 @@ _only overview contents, no specific tools_
 
 === Blog Posts and Articles
 * https://dataengweekly.substack.com/[Data Eng Weekly]
+* https://www.scaler.com/blog/category/data-science-business-analytics/[Scaler Blogs]
 
 === Collections
 * https://nosql-database.org/[NOSQL Database Management Systems] - List of NoSQL database management systems.
