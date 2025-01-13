@@ -113,6 +113,7 @@ toc::[]
 == Testing
 * https://greatexpectations.io/[Great expectations] - Helps data teams eliminate pipeline debt, through data testing.
 * https://github.com/DataKitchen/data-observability-installer/[DataKitchen Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.
+* https://docs.soda.io/soda-core/overview-main.html[Soda Core] - Open-source Python library and CLI tool that enables data engineers to test data quality.
 
 == Monitoring and Logging
 * https://prometheus.io/[prometheus] - An open-source systems monitoring and alerting toolkit.
