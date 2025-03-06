@@ -45,6 +45,8 @@ toc::[]
 * https://min.io/[MinIO] - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
 * https://questdb.io/[QuestDB] - Open Source Time Series Database with a focus on performance and simplicity.
+* https://duckdb.org/[DuckDB] - An in-process SQL OLAP database system for fast analytics on large datasets.
+
 
 == Data Governance and Registries
 
