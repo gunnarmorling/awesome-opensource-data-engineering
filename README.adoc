@@ -41,6 +41,7 @@ toc::[]
 * https://hbase.apache.org/[Apache HBase] - Open Source non-relational distributed database. 
 * https://pinot.apache.org/[Apache Pinot] - A realtime distributed OLAP datastore.
 * https://clickhouse.tech/[ClickHouse] - Open Source distributed column-oriented DBMS.
+* https://cratedb.com/[CrateDB] - Distributed SQL database for time series, documents, and vectors compatible with PostgreSQL.
 * https://www.influxdata.com/[InfluxDB] - Purpose-Built Open Source Time Series Database.
 * https://min.io/[MinIO] - MinIO is a high performance, distributed object storage system and AWS S3 compatible.
 * https://www.postgresql.org/[Postgres] - The World's Most Advanced Open Source Relational Database.
