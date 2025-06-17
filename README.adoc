@@ -27,6 +27,7 @@ toc::[]
 * https://delta.io/[Delta Lake] - Open-source storage framework that enables building a lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
 * https://hudi.apache.org/[Apache Hudi] - Transactional data lake platform that brings database and data warehouse capabilities to the data lake. Hudi reimagines slow old-school batch data processing with a powerful new incremental processing framework for low latency minute-level analytics.
 * https://iceberg.apache.org/[Apache Iceberg] - High-performance format for huge analytic tables. Iceberg brings the reliability and simplicity of SQL tables to big data, while making it possible for engines like Spark, Trino, Flink, Presto, Hive and Impala to safely work with the same tables, at the same time.
+* https://gravitino.apache.org/[Apache Gravitino] - A high-performance, geo-distributed, and federated metadata lake that provides unified metadata access for various data sources (filestores, relational databases, event streams) and AI assets. It supports multiple compute engines like Trino, Spark, and Flink, enabling end-to-end data governance with features like access control, auditing, and discovery.
 
 == Change Data Capture
 
