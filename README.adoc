@@ -56,6 +56,12 @@ toc::[]
 * https://github.com/monosidev/monosi[Monosi] - Data observability & monitoring platform. 
 * https://github.com/open-metadata/OpenMetadata[OpenMetadata] - Generalized metadata, search, and lineage tool.
 
+== Data Profiling
+
+* https://github.com/capitalone/dataprofiler[Data Profiler] - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
+* https://github.com/desbordante/desbordante-core[Desbordante] - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+* https://github.com/ydataai/ydata-profiling[YData Profiling] - A general-purpose open-source data profiler for high-level analysis of a dataset.
+
 == Data Virtualization
 
 * https://drill.apache.org/[Apache Drill] - Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
