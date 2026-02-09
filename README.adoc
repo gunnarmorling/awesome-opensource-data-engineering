@@ -126,6 +126,7 @@ toc::[]
 
 * https://github.com/meirwah/awesome-workflow-engines[Awesome Workflow Engines] - A curated list of awesome open source workflow engines.
 * https://airflow.apache.org/[Apache Airflow] - A platform created by community to programmatically author, schedule and monitor workflows.
+* https://github.com/bruin-data/bruin[Bruin] - End-to-end data pipeline tool combining ingestion (50+ sources), SQL/Python transformations, and built-in data quality checks in a single CLI.
 * https://nifi.apache.org/[Apache NiFi] - Apache NiFi supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic
 * https://github.com/knime/[KNIME] - KNIME Analytics Platform offers a WYSIWYG Editor for Spark-based workflows, with over 2000+ integrations. Offers visualization and flow analytics in-place. KNIME Server is a commercially licensed component that adds additional features. 
 * https://github.com/PrefectHQ/prefect/[Prefect] - A workflow management system designed for modern infrastructure.
