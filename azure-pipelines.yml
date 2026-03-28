@@ -1,0 +1,39 @@
+# Go
+# Build your Go project.
+# Add steps that test, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/go
+# Template requirements: *.go and go.mod files in directory
+
+trigger:
+- master
+
+pool:
+  vmImage: ubuntu-latest
+
+variables:
+  GOBIN:  '$(system.defaultWorkingDirectory)/bin' # Go binaries path
+
+steps:
+- script: |
+    mkdir -p '$(GOBIN)'
+    echo '##vso[task.prependpath]$(GOBIN)'
+  displayName: 'Set up the Go workspace'
+
+- script: |
+    ls -la $(system.defaultWorkingDirectory)
+  displayName: 'List files in the working directory'
+
+- script: |
+    go version
+    if [ ! -f go.mod ]; then
+        go mod init example.com/myproject # replace with your module path
+    fi
+    go mod tidy
+    go mod download
+    if [ -f Gopkg.toml ]; then
+        curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
+        dep ensure
+    fi
+    go build -v .
+  workingDirectory: '$(system.defaultWorkingDirectory)'
+  displayName: 'Get dependencies, then build'
