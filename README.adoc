@@ -112,6 +112,7 @@ toc::[]
 
 == Testing
 * https://greatexpectations.io/[Great expectations] - Helps data teams eliminate pipeline debt, through data testing.
+* https://github.com/provero-org/provero[Provero] - A vendor-neutral, declarative data quality engine. Define checks in YAML, run anywhere. Supports 16 built-in check types, SQL batch optimization, anomaly detection, and data contracts.
 * https://github.com/DataKitchen/data-observability-installer/[DataKitchen Data Observability] - A full featured data quality profiling and data testing tool: it automatically generates tests for you.
 
 == Monitoring and Logging
