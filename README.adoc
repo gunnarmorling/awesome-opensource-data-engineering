@@ -68,6 +68,10 @@ toc::[]
 
 * https://www.getdbt.com/[dbt] - Empowering data analysts and engineers to apply methodologies akin to those used by software engineers for constructing applications, dbt ensures data transformation processes align with established practices.
 
+== Data Project Tooling
+
+* https://github.com/joachimhodana/dbt-doctor[dbt-doctor] - CLI linter and health scorer for dbt projects (SQL, YAML, and Jinja), with optional SQLFluff integration, CI gates, and a 0-100 project health score.
+
 == Formats
 
 * https://avro.apache.org/[Apache Avro] - A data serialization system.
