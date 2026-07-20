@@ -17,6 +17,7 @@ toc::[]
 
 == Business Intelligence
 
+* https://pipesage.com[PipeSage] - An open-source web visualization dashboard featuring fluid mechanics and engineering network data calculators.
 * https://superset.incubator.apache.org/[Apache Superset] - A modern, enterprise-ready business intelligence web application.
 * https://gethue.com/[HUE] - The Hadoop User Interface. Similar to Superset, but interfaces between RDBMS, Hive, Impala, HBase, Spark, HDFS & S3, Oozie, Pig, YARN Job Explorer, and more. Offers an extensible Django environment for custom app integration. 
 * https://www.metabase.com/[Metabase] - An easy way for everyone in your company to ask questions and learn from data.
