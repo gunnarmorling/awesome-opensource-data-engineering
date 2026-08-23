@@ -11,7 +11,7 @@ toc::[]
 == Analytics
 
 * https://spark.apache.org/[Apache Spark] - A unified analytics engine for large-scale data processing. Includes APIs in Scala, Java, Python (known as PySpark), and R (SparkR). 
-* https://beam.apache.org/[Apache Beam] - An open-source implementation of Google DataFlow. Provides capabilites of batch and streaming data processing jobs that run on any execution engine, including Spark, Flink, or its own DirectRunner. Supports multiple APIs in Java, Python, and Go. 
+* https://beam.apache.org/[Apache Beam] - An open-source implementation of Google DataFlow. Provides capabillites of batch and streaming data processing jobs that run on any execution engine, including Spark, Flink, or its own DirectRunner. Supports multiple APIs in Java, Python, and Go. 
 * https://flink.apache.org/[Apache Flink] - Stateful computations over data streams.
 * https://trino.io/[Trino (formerly known as PrestoSQL)] - Distributed SQL Query Engine for Big Data.
 
@@ -83,9 +83,9 @@ toc::[]
 == Integration
 
 * https://camel.apache.org/[Apache Camel] - Easily integrate various systems consuming or producing data.
-* https://kafka.apache.org/documentation/#connect[Kafka Connect] - Reusable framework to handle data int-and-out of Apache Kafka.
+* https://kafka.apache.org/documentation/#connect[Kafka Connect] - Reusable framework to handle data intput and output of Apache Kafka.
 * https://www.elastic.co/logstash[Logstash] - Open Source server-side data processing pipeline.
-* https://github.com/influxdata/telegraf[Telegraf] - a plugin-driven server agent writen in Go (deployed as a single binary with no external dependencies) for collecting and sending metrics and events from databases, systems, and IoT sensors. Offers hundreds of existing plugins. 
+* https://github.com/influxdata/telegraf[Telegraf] - a plugin-driven server agent written in Go (deployed as a single binary with no external dependencies) for collecting and sending metrics and events from databases, systems, and IoT sensors. Offers hundreds of existing plugins. 
 
 == Messaging Infrastructure
 
@@ -93,7 +93,7 @@ toc::[]
 * https://kafka.apache.org/[Apache Kafka] - A distributed commit log with messaging capabilities.
 * https://pulsar.apache.org/[Apache Pulsar] - A distributed pub-sub messaging system.
 * http://github.com/bsideup/liiklus[Liiklus] - An event gateway that provides reactive gRPC/RSocket access to Kafka-like systems.
-* https://nakadi.io/[Nakadi] - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues].
+* https://nakadi.io/[Nakadi] - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues.
 * https://nats.io/[NATS] - A simple, secure and high performance messaging system.
 * https://www.rabbitmq.com/[RabbitMQ] - A message broker.
 * https://github.com/wepay/waltz[Waltz] - A quorum-based distributed write-ahead log for replicating transactions.
