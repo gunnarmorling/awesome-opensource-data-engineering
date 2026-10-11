@@ -32,6 +32,7 @@ toc::[]
 
 * https://debezium.io/[Debezium] - Change data capture for MySQL, Postgres, MongoDB, SQL Server and others.
 * https://github.com/zendesk/maxwell[Maxwell] - Maxwell's daemon, a MySQL-to-JSON Kafka producer.
+* https://github.com/datazip-inc/olake[OLake] - CDC and batch replication from Postgres, MySQL, MongoDB, Oracle, SQL Server and Kafka into Apache Iceberg, written in Go.
 
 == Datastores
 
