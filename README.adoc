@@ -50,6 +50,7 @@ toc::[]
 
 * https://github.com/lyft/amundsen[Amundsen] - metadata catalogue.
 * https://atlas.apache.org[Apache Atlas] - Data governance and metadata framework for Hadoop.
+* https://www.csvpath.org[CsvPath Framework] - Edge Data Governance data firewall and data and metadata archive
 * https://github.com/linkedin/datahub[DataHub] -  A Generalized Metadata Search & Discovery Tool.
 * https://github.com/Netflix/metacat[Metacat] - Unified metadata exploration API service.
 * https://github.com/elementary-data/elementary-lineage[Elementary] - Data reliability solution, starting with plug-and-play data lineage and datasets operational status. 
