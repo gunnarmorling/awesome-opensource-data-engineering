@@ -118,6 +118,7 @@ toc::[]
 * https://prometheus.io/[prometheus] - An open-source systems monitoring and alerting toolkit.
 * https://grafana.com/[grafana] - An open-source analytics and monitoring platform.
 * https://github.com/DataKitchen/data-observability-installer/[DataKitchen Data Observability] - A full featured monitoring and alerting software that watches across and down your data estate
+* https://github.com/Azure/serilog-sinks-azuredataexplorer[Serilog.Sinks.AzureDataExplorer] - A C#/.NET Serilog sink for sending structured log events to Azure Data Explorer (Kusto).
 
 == Versioning 
 * https://github.com/treeverse/lakeFS/[lakeFS] - Repeatable, atomic and versioned data lake on top of object storage.
